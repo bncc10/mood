@@ -5,3 +5,8 @@ By observing and recording the change of girlfriend's mood every day, the girlfr
 App shows girlfriend's mood changes in a variety of charts, which is very intuitive.
 
 App supports customizing the colors represented by the three moods to be pleasing to the eye.
+
+
+Contact:
+
+E-mail: bncc10@163.com
